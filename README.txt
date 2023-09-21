@@ -15,4 +15,5 @@ https://www.udemy.com/course/javascript_full/learn/lecture/19478130#learning-too
 6. Зворотній таймер по кінцевій даті.
 7. ПОПап вікно 
 8. Відкриття по кролу до кінця сторінки
+9. Асинхронний запит на Json pplaysholder. 
 
